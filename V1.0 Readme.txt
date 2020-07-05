@@ -1,0 +1,41 @@
+*********************************************************************************
+Mega Man X3 - Sound Test			     				*
+Created By: Justin3009 (xJustin3009x/Shishisenkou)			     	*
+*********************************************************************************
+Version 1.0	- July 5th, 2020
+--------------------------------------------------------------------------------
+
+Content
+-------------
+1. What's new?
+2. Version Updates
+3. Other
+
+
+
+*********************************************************************************
+1. What's new?							     		*
+*********************************************************************************
+This requires an unheadered Mega Man X 3 (U) ROM!
+These programs should remove SNES headers.
+	https://www.romhacking.net/utilities/608/ (Tush)
+	https://www.romhacking.net/utilities/593/ (SNES ROM Utility)
+
+
+This patch adds into the Options Menu the ability to play through the games BGM and SFX much like X1 did.
+
+
+*********************************************************************************
+2. Version Updates								*
+*********************************************************************************
+V1.0
+-------------
+1.  Added BGM and SFX test into the Options Menu.
+
+
+******************************************************************************
+3. Other								     *
+******************************************************************************
+For more updates on this project (if they arrive) and other projects, follow me at:
+Twitter: 	https://twitter.com/Justin3009
+
