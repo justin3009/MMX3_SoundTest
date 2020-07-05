@@ -37,5 +37,8 @@ V1.0
 3. Other								     *
 ******************************************************************************
 For more updates on this project (if they arrive) and other projects, follow me at:
-Twitter: 	https://twitter.com/Justin3009
+	Twitter: 	https://twitter.com/Justin3009
+
+This project is open source on github:
+	https://github.com/justin3009/MMX3_SoundTest
 
